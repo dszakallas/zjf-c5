@@ -10,3 +10,8 @@ License
 This software is licensed under the GPL v2. See LICENSE.MD.
 
 
+Contact
+=======
+
+Dávid Szakállas
+david.szakallas[AT]gmail.com
